@@ -95,7 +95,7 @@
           <username>admin</username>
           <password>password</password>
           <server>TomcatServer</server>
-          <path>/devops-tool-list>
+          <path>/devops-tool-list</path>
         </configuration>
       </plugin>
     </plugins>
